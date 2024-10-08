@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SchlaubiDerSchlaue
 - 👀 I’m interested in Home Automation and Excel VBA.
-- 🌱 I’m currently learning Excel VBA and Python
+- 🌱 I’m currently learning Excel VBA, Python and JS
 - 💞️ I’m looking to collaborate on nothing firstly.
 - 📫 How to reach me: Mail
 
